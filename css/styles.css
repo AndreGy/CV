@@ -1,0 +1,52 @@
+/*css*/
+body {
+  text-align: center;
+  margin: 0px
+}
+
+h1 {
+  padding-top: 13%;
+  color: #1f6650;
+  font-family: 'Rochester', cursive;
+}
+
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p {color: #1f6650;
+font-family: 'Work Sans', sans-serif;
+  padding-bottom: 5%;
+}
+
+.top-container {
+  margin: 0px;
+  width: 100%;
+  background-color: #eafbea;
+  position: relative;
+  padding-top: 5%;
+}
+
+.middle-container {
+  width: 100%;
+  height: 200px;
+  background-color: white;
+}
+
+.bottom-container {
+  width: 100%;
+  background-color: green;
+}
+
+.cloud1{
+position: absolute;right: 15%
+
+}
+
+.cloud2{
+  position: absolute; left: 15%;
+}
